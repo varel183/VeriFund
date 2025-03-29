@@ -3,7 +3,7 @@
   <h3> Secure your kindness with Verifund! </h3>
 </div> <br>
 
-![VeriFund](frontend/public/verifund.png)
+![VeriFund Demo](./assets/Home.gif)
 
 <div align="center">
 
@@ -165,7 +165,7 @@ If they fail to act or vote fraudulently, their stake is slashed.
 
 #### System Flow
 
-![VeriFund Logic](./frontend/public/VeriFund_Logic.png)
+![VeriFund Logic](./assets/VeriFund_Logic.png)
 
 ## Roles in System
 
