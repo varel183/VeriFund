@@ -64,12 +64,12 @@ VeriFund emerges to solve this pressing global need for trustless, proof-based, 
 VeriFund is not just a donation platform — it's an ecosystem of accountability, built on a blockchain that can actually support it i.e. the Internet Computer Protocol (ICP) that isn’t just another smart contract chain. It's the only blockchain that allows developers to build full-stack decentralized applications, including:
 
 | ICP Capability     | Why It Matters for VeriFund                                                                                             |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | On-chain compute   | VeriFund logic (timers, staking, auditing) runs fully on-chain, not just payment transactions.                          |
 | On-chain storage   | All campaign data, donations, and usage reports are stored and served directly from the chain — no centralized servers. |
 | HTTPS Outcalls     | VeriFund can fetch and verify live data (e.g., price feeds, file links, external APIs) directly from the canister.      |
 | Certified Queries  | Donors see cryptographically certified frontend data, ensuring frontend integrity.                                      |
-| Internet Identity  | Users can login without passwords, securely and privately across devices.                                               |     |
+| Internet Identity  | Users can login without passwords, securely and privately across devices.                                               |
 | Near-zero gas fees | Enables microdonations, global access, and predictable costs.                                                           |
 
 This makes ICP the only chain where a system like VeriFund could emerge without depending on bridges, oracles, or Web2 services.
