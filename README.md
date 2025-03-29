@@ -3,7 +3,7 @@
   <h3> Secure your kindness with Verifund! </h3>
 </div> <br>
 
-![VeriFund](./frontend/public/verifund.png)
+![VeriFund](frontend/public/verifund.png)
 
 <div align="center">
 
@@ -233,7 +233,7 @@ Make sure Docker is running, then navigate into your project's directory that yo
 ### 2. Clone or enter your project
 
 ```bash
-git clone https://github.com/Incheon21/verifund.git
+git clone https://github.com/varel183/VeriFund.git
 cd verifund
 ```
 
@@ -275,7 +275,7 @@ dfx deploy
 | Campaign audit history & reviewer logs |
 | Real ICP transfer with NNS |
 
-Disclamer
+Disclaimer
 These features are not made due to 2000 lines of code limitation
 
 ## License
